@@ -1,0 +1,46 @@
+{
+  "ROOT": {
+    "HOME": {
+      "AR": {
+        "logo": "عمر هوساوي",
+        "myProjects": "مشاريعي",
+        "megaMenu": {
+          "name": "القائمة الموسعة",
+          "motanafeson": "متنافسون",
+          "readAndWriteProject": "تعليم القراءة والكتابة",
+          "hajjApplecation": "تطبيق الحج",
+          "myDreems": "أحلام الغد"
+        },
+        "arabic": "عربي",
+        "english": "انجليزي"
+      },
+      "EN": {
+        "logo": "Umar Husawi",
+        "myProjects": "My Projects",
+        "megaMenu": {
+          "name": "Mega Menu",
+          "motanafeson": "Motanafeson",
+          "readAndWriteProject": "Read And Write Project",
+          "hajjApplecation": "Hajj Applecation",
+          "myDreems": "My Dreems"
+        },
+        "arabic": "Arabic",
+        "english": "English"
+      }
+    },
+    "SLIDER": {
+      "AR": {
+        "aboutMe": "تعرف لي!",
+        "fristLine": "أنا عمر مطور مبتدئ...",
+        "socendLine": "اريد الوصول الى القمة...",
+        "therdLine": "طموحي كبير يصل عنان السماء..."
+      },
+      "EN": {
+        "aboutMe": "About Me!",
+        "fristLine": "I'm Umar a junior developer...",
+        "socendLine": "I want to get to the top...",
+        "therdLine": "My ambition is as big as the sky..."
+      }
+    }
+  }
+}
